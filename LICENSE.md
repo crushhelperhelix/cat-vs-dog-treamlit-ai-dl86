@@ -1,4 +1,4 @@
-# 
+# VIP Cat vs Dog Classifier with PyTorch and Streamlit scripts. Com visão computacional e análise de sentimentos — otimizado para máximo desempenho.
 
 
 
